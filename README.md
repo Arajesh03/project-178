@@ -1,4 +1,4 @@
-**Toxic Comment Challenge Report**  
+##### Toxic Comment Challenge Report**  
 
 [pdf: https://github.com/Arajesh03/project-178/blob/main/CS%20178%20Report.pdf]
 

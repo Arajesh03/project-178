@@ -1,6 +1,6 @@
 **Toxic Comment Challenge Report**  
 
-[View the project report (PDF)](https://github.com/Arajesh03/project-178/blob/main/CS%20178%20Report.pdf)
+[pdf: https://github.com/Arajesh03/project-178/blob/main/CS%20178%20Report.pdf]
 
 
 **![][image1]**  

@@ -1,6 +1,7 @@
 **Toxic Comment Challenge Report**  
 
-[![Report Preview](report_thumbnail.png)](https://github.com/Arajesh03/project-178/blob/main/CS%20178%20Report.pdf)
+[View the project report (PDF)](https://github.com/Arajesh03/project-178/raw/main/CS%20178%20Report.pdf)
+
 
 **![][image1]**  
 	In this generation, a large part of interaction occurs online, especially among younger audiences. Because of this, it is crucial to foster positive online environments by addressing the prevalence of toxic comments on digital platforms. The Toxic Comment Challenge presents a multi-label classification problem focused on detecting and categorizing toxic behavior in online comments. This report will examine the application of machine-learning techniques to accurately classify comments into different toxicity categories: toxic, severe\_toxic, obscene, threat, insult, and identity\_hate.  
